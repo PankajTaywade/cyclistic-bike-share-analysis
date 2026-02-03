@@ -20,3 +20,16 @@ This analysis examines rider behavior differences to identify actionable convers
 
 ## Expected Impact
 Converting even a small percentage of high-frequency casual riders could significantly increase recurring revenue and customer lifetime value.
+
+
+## Linking Insights to Business Action
+
+The analysis highlights clear behavioral differences between casual riders and annual members.  
+To ensure insights translate into measurable impact, each recommendation is paired with a metric for evaluation.
+
+| Insight | Recommendation | Success Metric |
+|-------|----------------|----------------|
+| Casual riders take longer rides, especially on weekends | Promote weekend-focused membership offers and short-term trials | Casual-to-member conversion rate |
+| Casual rider usage peaks during warmer months | Launch seasonal membership campaigns during peak months | Monthly new member sign-ups |
+| Members ride more frequently on weekdays | Position memberships as a cost-effective commuting solution | Average weekday rides per member |
+| Members show consistent usage across the year | Retain members through loyalty programs and commute incentives | Member retention rate |
